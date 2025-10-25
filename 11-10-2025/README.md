@@ -26,7 +26,6 @@ if(x == y):
 x = y 
 ``` 
 
-<br></br>
 ### Input
 ---
 Input always gives a string you need to typecast it to other by writing: 
@@ -34,7 +33,6 @@ Input always gives a string you need to typecast it to other by writing:
 # We typecast the string given by input to an integer here. 
 x = int(input("Please enter your age: "))
 ```
-<br></br>
 
 ### range command
 ---
@@ -42,7 +40,7 @@ Usage:
 ```python
 range(intial count, (final count - 1), step)
 ```
->"Intial Count" is zero by default and "step" is one by default
+"Intial Count" is zero by default and "step" is one by default
     
 
 
