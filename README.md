@@ -7,7 +7,7 @@ The repository structure is as follows:-
     - First program
     - Second program
     - Third program
-    - Readme.md (ignore this it is just the text you see below the files".
+    - Readme.md (These are the notes I have created for the day, click on it to view the notes). 
 ```
 And so on for other files. 
 
