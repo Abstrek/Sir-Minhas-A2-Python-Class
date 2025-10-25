@@ -11,8 +11,6 @@ The repository structure is as follows:-
 ```
 And so on for other files. 
 
----
-
 ### If you have any queries or doubts raise it in the issues section, and I will try to get back to you as soon as I can.
 
 ## Further Practice
