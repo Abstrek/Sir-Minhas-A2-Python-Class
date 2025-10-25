@@ -12,14 +12,15 @@ Note:- Indexing in python starts from 0.
 
 We need to declare it in comments as following:- 
 
-```	
+```	python
 #DECLARE myList : ARRAY [0:4] OF STRING 
 ```
 (do note that this is a comment. Declaration is a requirement of cie no direct intialisation of arrays)
 
 Intialise this array with empty strings as follows:- 
-	
-	myList = ["" for index in range(5)] # This '5' can be the length of any array
+```	python
+myList = ["" for index in range(5)] # This '5' can be the length of any array
+```
 
 All searching, sorting, input, printing will be done through an array. 
 <br></br>
