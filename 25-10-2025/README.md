@@ -33,7 +33,7 @@ For linear search, use while loop as the "Break" keyword isn't allowed and thus 
 Use the keyword "global" besides a variable identifier that is present in the main program and is being used in the function like for example I am using a list present in the main program called "myList" so 
 I would put the following in my function: 
 ```python
-	def somerandomfunction() -> int: //arrow means this function returns an integer
+	def somerandomfunction() -> int: #arrow means this function returns an integer
 		global myList
 ```
 This is a good practice to do. 
