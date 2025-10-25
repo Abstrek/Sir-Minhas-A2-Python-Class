@@ -9,13 +9,11 @@ The repository structure is as follows:-
     - Third program
     - Pdf copy of the notes that I have made
     - Readme.md (ignore this)
-```  
-# 
-
+```
 And so on for other files. If you have any queries or doubts raise it in the issues section, and I will try to get back to you as soon as I can. 
-<br></br> 
 
-<br></br> 
+---
+
 # Further Practice
 <br></br> 
 [Project-Eulers](https://projecteuler.net/archives) 
