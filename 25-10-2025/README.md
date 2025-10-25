@@ -8,7 +8,7 @@ There are no arrays in python, that is why we have to make list into arrays sinc
 Array:- Array can store multiple items of same datatypes and the lenght is defined at the start. <br></br>
 List:- Can be any length and length can be changed dynamically (in execution of the program). Datatypes can be different. 
 
-Note:- Indexing in python starts from 0.
+> Note:- Indexing in python starts from 0.
 
 We need to declare it in comments as following:- 
 
