@@ -15,13 +15,13 @@
 x = 3 % 2
 ```
 
- - To check if a certain value `x is equal to `y, during a comparision in `IF` or `WHILE` use  `==` like this:- 
+ - To check if a certain value `x` is equal to y, during a comparision in `IF` or `WHILE` use  `==` like this:- 
 ```python
 if(x == y):
 	#Something happens
 ```
 
-- For assignment. Lets say I want `x` to have the value of `y, we use ` `=`  use it like this :-
+- For assignment. Lets say I want `x` to have the value of `y`, we use `=`  use it like this :-
 ```python
 x = y 
 ``` 
