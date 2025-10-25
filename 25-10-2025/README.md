@@ -5,7 +5,7 @@
 
 There are no arrays in python, that is why we have to make list into arrays since only lists are by default in python 
 
-Array:- Array can store multiple items of same datatypes and the lenght is defined at the start.
+Array:- Array can store multiple items of same datatypes and the lenght is defined at the start. <br></br>
 List:- Can be any length and length can be changed dynamically (in execution of the program). Datatypes can be different. 
 
 Note:- Indexing in python starts from 0.
