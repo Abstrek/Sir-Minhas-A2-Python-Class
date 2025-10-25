@@ -14,8 +14,7 @@ And so on for other files. If you have any queries or doubts raise it in the iss
 
 ---
 
-# Further Practice
-<br></br> 
+## Further Practice
 [Project-Eulers](https://projecteuler.net/archives) 
 
 
