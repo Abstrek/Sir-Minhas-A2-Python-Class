@@ -5,42 +5,44 @@
 ---
 
  - DIV/Quotient can be found using `//`. Usage example:- 
- ```python
+ ```
  # To find the DIV of 3/2 use
  x = 3 // 2
  ```
 - MOD/Remainder can be found using `%`. Usage example:- 
-```python
+```
 # To find the MOD of 3/2 use 
 x = 3 % 2
 ```
 
- - To check if a certain value `x` is equal to y, during a comparision in `IF` or `WHILE` use  `==` like this:- 
-```python
+ - To check if a certain value `x is equal to `y, during a comparision in `IF` or `WHILE` use  `==` like this:- 
+```
 if(x == y):
 	#Something happens
 ```
 
-- For assignment. Lets say I want `x` to have the value of `y`, we use `=`  use it like this :-
-```python
+- For assignment. Lets say I want `x` to have the value of `y, we use ` `=`  use it like this :-
+```
 x = y 
 ``` 
 
+<br></br>
 ### Input
 ---
 Input always gives a string you need to typecast it to other by writing: 
-```python
+```
 # We typecast the string given by input to an integer here. 
 x = int(input("Please enter your age: "))
 ```
+<br></br>
 
 ### range command
 ---
 Usage: 
-```python
+```
 range(intial count, (final count - 1), step)
 ```
-"Intial Count" is zero by default and "step" is one by default
+>"Intial Count" is zero by default and "step" is one by default
     
 
 
