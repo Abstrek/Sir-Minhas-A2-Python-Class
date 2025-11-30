@@ -11,4 +11,17 @@ def insertion_sort():
         myList[currentptr + 1] = insert_item
         print(myList)
 
-insertion_sort()
+def insert(): 
+    for i in range(1, len(myList)): 
+        item_to_insert = myList[i]
+        pointer = i - 1 
+        while pointer > -1 and item_to_insert < myList[pointer]: 
+            myList[pointer + 1] = myList[pointer]
+            pointer -= 1 
+            print("-----------------------------------------")
+            print(myList)
+            print("-----------------------------------------")
+
+        myList[pointer + 1 ]= item_to_insert
+        
+insert()
