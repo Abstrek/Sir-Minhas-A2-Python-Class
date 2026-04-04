@@ -56,12 +56,17 @@ def search(item : int) -> bool:
                      
     
                  
-insert(50)
-insert(30)
-insert(70)
-insert(20)
-insert(40)
+for i in range(20):
+    item = int(input("Enter data: "))
+    AddNode(item)
 
-print("Tree:", mylist)
-print("Root pointer:", root_pointer)
-print("Free pointer:", free_pointer)
+def InOrder(Root):
+    if ArrayNodes[Root][0] != -1: 
+        PostOrder(ArrayNodes[Root][0])
+   
+   print(ArrayNodes[Root][1])
+
+    if ArrayNodes[Root][2] != -1:
+        PostOrder(ArrayNodes[Root][2])
+    
+   

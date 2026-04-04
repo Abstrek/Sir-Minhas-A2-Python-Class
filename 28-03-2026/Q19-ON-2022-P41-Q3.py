@@ -34,13 +34,25 @@ def SearchValue(Root, ValueToFind) -> int:
 
 def PostOrder(Root):
     
+    print(ArrayNodes[Root][1])
+
     if ArrayNodes[Root][0] != -1: 
         PostOrder(ArrayNodes[Root][0])
+    
+    print(ArrayNodes[Root][1])
+
     if ArrayNodes[Root][2] != -1:
         PostOrder(ArrayNodes[Root][2])
     
     print(ArrayNodes[Root][1])
+    
+
+# 1 Line 40
+# 
+# 
    
+# 4 5 2 6 7  3 
+
 x = SearchValue(RootPointer, 15)
 print("Number 15 found at index:", x)
 
